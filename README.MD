@@ -55,6 +55,6 @@ Optional parameters:
 ## TODO
 	1. Update unit test cases.
 	2. Adding AuditLogging component (Filter).
-	3. Implement spring cloud stack support such as config server, circuit breaker(Hystrix),Eureka,ZUUL.
+	3. Implement spring cloud stack support such as config server,circuit breaker(Hystrix), Eureka, ZUUL.
 	4. Improvement on monitoring (stats) like Grafana dash board.
 	5. Implement users valid feedback.
