@@ -96,6 +96,11 @@
 			<artifactId>commons-validator</artifactId>
 			<version>1.4.0</version>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.8.1</version>
+		</dependency>
 		<!-- The dropwizrd metrics dependencies start here -->
 		<dependency>
 			<groupId>com.ryantenney.metrics</groupId>
