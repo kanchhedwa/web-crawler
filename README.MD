@@ -6,7 +6,7 @@
  A simple web crawler in a springboot,jsoup.
 The crawler should:
 
-- be limited to one domain. Given a starting URL – say  http://www.prudential.co.uk 
+- be limited to one domain. Given a starting URL – say  http://www.google.com 
 - it should visit all pages within the domain, but not follow the links to external sites such as Google or Twitter.
 
 The output should be a simple structured site map (this does not need to be a traditional XML sitemap - just some sort of output to reflect 
